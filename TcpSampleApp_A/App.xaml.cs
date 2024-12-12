@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace TcpSampleApp_A
+namespace TcpSample_A
 {
     /// <summary>
     /// Interaction logic for App.xaml

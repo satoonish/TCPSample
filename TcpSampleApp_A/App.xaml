@@ -1,4 +1,4 @@
-﻿<Application x:Class="TcpSampleApp_A.App"
+﻿<Application x:Class="TcpSample_A.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:TcpSampleApp_A"

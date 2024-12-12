@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpSampleApp_A", "TcpSampleApp_A\TcpSampleApp_A.csproj", "{6706E9C3-8090-432A-AE28-98A162DDA5CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpSample_A", "TcpSampleApp_A\TcpSample_A.csproj", "{6706E9C3-8090-432A-AE28-98A162DDA5CA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpSample_B", "TcpSample_B\TcpSample_B.csproj", "{35818A38-0963-4490-9CAD-84D218FFEFC8}"
 EndProject
